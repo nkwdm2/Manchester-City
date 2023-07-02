@@ -1,0 +1,42 @@
+请求方式: GET
+请求路径: /getUser12
+请求状态: 200
+上下文长度: 36
+反应时间: 6.169ms
+
+请求方式: GET
+请求路径: /getNewss2?limit=8&page=1&query=
+请求状态: 200
+上下文长度: 24989
+反应时间: 51.508ms
+
+请求方式: GET
+请求路径: /getNewss2?limit=8&query=
+请求状态: 200
+上下文长度: 24989
+反应时间: 4.158ms
+
+请求方式: GET
+请求路径: /getSchedule
+请求状态: 200
+上下文长度: 2311
+反应时间: 61.320ms
+
+请求方式: GET
+请求路径: /getAmidithions2?limit=5&page=1&query=
+请求状态: 200
+上下文长度: 401
+反应时间: 30.252ms
+
+请求方式: POST
+请求路径: /login2
+请求状态: 200
+上下文长度: 58
+反应时间: 11.784ms
+
+请求方式: GET
+请求路径: /getNewss2?limit=8&query=
+请求状态: 304
+上下文长度: undefined
+反应时间: 4.621ms
+
